@@ -22,12 +22,10 @@ in this project I have learn about:
 
 ## This is the result of my learn
 
-<img src="/images/ss1.png" style="width: 30%;">   <img src="/images/ss6.png" style="width: 30%;">
+<img src="/images/ss1.png" style="width: 30%;">   <img src="/images/ss6.png" style="width: 30%;">. <img src="/images/ss4.png" style="width: 30%;">
 
-<img src="/images/ss2.png" style="width: 30%;">   <img src="/images/ss7.png" style="width: 30%;">
+<img src="/images/ss2.png" style="width: 30%;">   <img src="/images/ss7.png" style="width: 30%;">  <img src="/images/ss9.png" style="width: 30%;">
 
-<img src="/images/ss3.png" style="width: 30%;">   <img src="/images/ss8.png" style="width: 30%;">
+<img src="/images/ss3.png" style="width: 30%;">   <img src="/images/ss8.png" style="width: 30%;">  <img src="/images/ss5.png" style="width: 30%;">
 
-<img src="/images/ss4.png" style="width: 30%;">   <img src="/images/ss9.png" style="width: 30%;">
-
-<img src="/images/ss5.png" style="width: 30%;">   <img src="/images/ss10.png" style="width: 30%;">
+<img src="/images/ss10.png" style="width: 30%;">
